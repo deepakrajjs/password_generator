@@ -5,7 +5,7 @@ A simple and effective web-based password generator to help users create strong,
 ---  
   
 ## Overview
-
+  
 This project is a frontend web application that allows users to generate passwords automatically with customizable options. It aims to boost your security by providing random, complex passwords suitable for various online accounts.
 
 ---
