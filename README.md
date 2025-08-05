@@ -2,10 +2,14 @@
 
 A simple and effective web-based password generator to help users create strong, secure passwords instantly.  
 
----  
-  
+---
+
+![Password Generator Animation](screenshots/password_animation.gif) <!-- Add your animation here -->
+
+---
+
 ## Overview  
-  
+
 This project is a frontend web application that allows users to generate passwords automatically with customizable options. It aims to boost your security by providing random, complex passwords suitable for various online accounts.
 
 ---
@@ -18,6 +22,7 @@ This project is a frontend web application that allows users to generate passwor
   - Include/exclude uppercase letters, lowercase letters, numbers, and special characters.
 - **User-Friendly Interface**: Clean, responsive design for easy use on any device.
 - **Copy to Clipboard**: Quickly copy generated passwords for convenience.
+- **Animated UI**: Enjoy smooth animations for generating and copying passwords, enhancing user experience.
 
 ---
 
@@ -53,13 +58,14 @@ You can access a live demo [here](#)
 <!-- Add screenshots of your UI here -->
 ![Homepage](screenshots/homepage.png)
 ![Password Generated](screenshots/password_generated.png)
+![Password Generator Animation](screenshots/password_animation.gif) <!-- Animation image -->
 
 ---
 
 ## Technologies Used
 
 - **HTML** for structure
-- **CSS** for styling
+- **CSS** for styling and animations
 - **JavaScript** for password generation logic
 
 ---
@@ -81,4 +87,14 @@ This project is licensed under the [MIT License](LICENSE).
 
 Developed by [deepakrajjs](https://github.com/deepakrajjs)
 
-````
+---
+
+## Additional Resources
+
+- [Password Security Tips](https://www.cisa.gov/news-events/news/password-tips)
+- [Strong Password Generator](https://strongpasswordgenerator.com/)
+
+---
+
+> **Note:**  
+> To make the README perfect, add your deployed website link in the Demo section and ensure `screenshots/password_animation.gif` is placed in your repository's `screenshots` folder. The animation should showcase your password generation UI in action for maximum impact.
