@@ -4,7 +4,7 @@ A simple and effective web-based password generator to help users create strong,
 
 ---
 
-![Password Generator Animation](screenshots/password_animation.gif) <!-- Add your animation here -->
+![Password Generator Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NobnBqZDQ4eW80ZGg1Y2R2eWF1dmdrNnNnNnZqdWZnbjE1ZWhxNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VFjYIYw8XU0T0/giphy.gif) <!-- Animation from Giphy -->
 
 ---
 
@@ -55,10 +55,10 @@ You can access a live demo [here](#)
 
 ## Screenshots
 
-<!-- Add screenshots of your UI here -->
-![Homepage](screenshots/homepage.png)
-![Password Generated](screenshots/password_generated.png)
-![Password Generator Animation](screenshots/password_animation.gif) <!-- Animation image -->
+<!-- Internet-based images representing password generation -->
+![Homepage Example](https://images.unsplash.com/photo-1511379938547-c1f694198f36?auto=format&fit=crop&w=600&q=80)
+![Password Generated Example](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=600&q=80)
+![Password Generator Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NobnBqZDQ4eW80ZGg1Y2R2eWF1dmdrNnNnNnZqdWZnbjE1ZWhxNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VFjYIYw8XU0T0/giphy.gif) <!-- Animation -->
 
 ---
 
@@ -97,4 +97,4 @@ Developed by [deepakrajjs](https://github.com/deepakrajjs)
 ---
 
 > **Note:**  
-> To make the README perfect, add your deployed website link in the Demo section and ensure `screenshots/password_animation.gif` is placed in your repository's `screenshots` folder. The animation should showcase your password generation UI in action for maximum impact.
+> To make the README perfect, add your deployed website link in the Demo section. Images and animation are now hosted on the internet, so they’ll always show up regardless of your local files.
