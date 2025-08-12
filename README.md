@@ -1,6 +1,6 @@
 # 🔒 Password Generator 
  
-A simple and effective web-based password generator to help users create strong, secure passwords instantly.
+A simple and effective web-based password generator to help users create strong, secure passwords instantly. 
   
 ---
 
