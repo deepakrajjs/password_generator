@@ -3,7 +3,7 @@
 A simple and effective web-based password generator to help users create strong, secure passwords instantly. 
   
 --- 
- 
+  
 ![Password Generator Animation](https://media.giphy.com/media/VFjYIYw8XU0T0/giphy.gif)
 
 ---
